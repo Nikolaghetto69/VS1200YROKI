@@ -1,0 +1,21 @@
+body{
+  
+    background-image: url("https://abrakadabra.fun/uploads/posts/2022-02/thumbs/1645658458_7-abrakadabra-fun-p-skrudzh-makdak-oboi-na-rabochii-stol-8.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}  
+
+
+p{
+    background-color: rgba(0, 0, 0, 0.122);
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin: 0 10px;
+    padding: 10px 25px 35px 45px;
+    width: 50%;
+    text-align: left;
+}
+
+
